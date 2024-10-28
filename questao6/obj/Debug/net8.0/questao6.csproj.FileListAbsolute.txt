@@ -1,0 +1,14 @@
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\bin\Debug\net8.0\questao6.exe
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\bin\Debug\net8.0\questao6.deps.json
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\bin\Debug\net8.0\questao6.runtimeconfig.json
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\bin\Debug\net8.0\questao6.dll
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\bin\Debug\net8.0\questao6.pdb
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\obj\Debug\net8.0\questao6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\obj\Debug\net8.0\questao6.AssemblyInfoInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\obj\Debug\net8.0\questao6.AssemblyInfo.cs
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\obj\Debug\net8.0\questao6.csproj.CoreCompileInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\obj\Debug\net8.0\questao6.dll
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\obj\Debug\net8.0\refint\questao6.dll
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\obj\Debug\net8.0\questao6.pdb
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\obj\Debug\net8.0\questao6.genruntimeconfig.cache
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Atividade Extra 2\questao6\obj\Debug\net8.0\ref\questao6.dll
