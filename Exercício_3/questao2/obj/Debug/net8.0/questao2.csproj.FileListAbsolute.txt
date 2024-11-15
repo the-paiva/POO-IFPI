@@ -1,0 +1,14 @@
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\bin\Debug\net8.0\questao2.exe
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\bin\Debug\net8.0\questao2.deps.json
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\bin\Debug\net8.0\questao2.runtimeconfig.json
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\bin\Debug\net8.0\questao2.dll
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\bin\Debug\net8.0\questao2.pdb
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\obj\Debug\net8.0\questao2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\obj\Debug\net8.0\questao2.AssemblyInfoInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\obj\Debug\net8.0\questao2.AssemblyInfo.cs
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\obj\Debug\net8.0\questao2.csproj.CoreCompileInputs.cache
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\obj\Debug\net8.0\questao2.dll
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\obj\Debug\net8.0\refint\questao2.dll
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\obj\Debug\net8.0\questao2.pdb
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\obj\Debug\net8.0\questao2.genruntimeconfig.cache
+D:\Usuários\Henrique\OneDrive\Documents\ADS\Disciplinas\2024.2\Programação Orientada a Objetos\Atividades\Exercício 3\questao2\obj\Debug\net8.0\ref\questao2.dll
