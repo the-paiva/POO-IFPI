@@ -1,0 +1,8 @@
+// Letra C
+
+
+{
+    "compilerOptions": {
+        "noImplicitAny": true
+    }
+}

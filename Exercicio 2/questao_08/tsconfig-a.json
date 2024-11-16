@@ -1,0 +1,8 @@
+// Letra A
+
+
+{
+    "compilerOptions": {
+        "outDir": "./build"
+    }
+}
